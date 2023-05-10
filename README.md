@@ -3,7 +3,7 @@
 
 **Link ka kodu** : [DandelionAPP](https://mega.nz/folder/GDAwFAII#U16kZxfyupsK-C7jrtEdIg).
 
-**Link ka snimku** : [DandelionAPP-MP4]().
+**Link ka snimku** : [DandelionAPP-MP4](https://github.com/ntimotijevic6318/Dandelion-App/assets/72966266/81399fdb-f04c-48c0-a77b-b8be59a78649).
 
 **Funkcionalnosti aplikacije**:
 + Potrebno je uneti dandelion token da bi mogli da koristi API
@@ -16,3 +16,7 @@
 
 
 Nikola Timotijevic 63/18 RN
+
+
+
+
