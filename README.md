@@ -1,9 +1,9 @@
 # Dandelion-App
 
 
-**Link ka kodu** : [DandelionAPP]().
+**Link ka kodu** : [DandelionAPP](https://mega.nz/folder/GDAwFAII#U16kZxfyupsK-C7jrtEdIg).
 
-**Link ka snimku** : []().
+**Link ka snimku** : [DandelionAPP-MP4]().
 
 **Funkcionalnosti aplikacije**:
 + Potrebno je uneti dandelion token da bi mogli da koristi API
